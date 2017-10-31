@@ -82,7 +82,7 @@ footer .footer-contents {
   margin-bottom: 3rem;
   width: auto;
 }
-
+/*
 .message .eoscene-link {
    float: left;
    margin-right: 20px;
@@ -92,7 +92,7 @@ footer .footer-contents {
    width: 40px;
    height: 40px;
  }
-
+*/
 .message .text {
   float: left;
 }
@@ -157,12 +157,12 @@ footer .footer-contents {
     display: block;
     margin-bottom: 6rem;
   }
-
+/*
   .message .eoscene-link img {
-    width: 70%;		
+    width: 70%;
     height: 70%;
   }
-
+*/
   .page-content {
     padding: 3rem 5rem;
   }
