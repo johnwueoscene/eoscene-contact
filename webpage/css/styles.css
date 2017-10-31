@@ -83,6 +83,16 @@ footer .footer-contents {
   width: auto;
 }
 
+.message .eoscene-link {
+   float: left;
+   margin-right: 20px;
+ }
+
+ .message .eoscene-link img {
+   width: 40px;
+   height: 40px;
+ }
+
 .message .text {
   float: left;
 }
@@ -148,6 +158,11 @@ footer .footer-contents {
     margin-bottom: 6rem;
   }
 
+  .message .eoscene-link img {
+    width: 70%;		
+    height: 70%;
+  }
+
   .page-content {
     padding: 3rem 5rem;
   }
@@ -163,7 +178,7 @@ footer .footer-contents {
   h1 {
     font-size: 5rem;
   }
-  
+
 }
 
 @media (min-aspect-ratio: 11/5)  {
