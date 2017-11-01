@@ -106,7 +106,7 @@ footer .footer-contents {
 .graphics {
   display: none;
   position: absolute;
-  bottom: 0;
+  bottom: 75rem;
   left: 0;
   margin-bottom: 0;
 }
