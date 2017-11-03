@@ -106,7 +106,7 @@ footer .footer-contents {
 .graphics {
   display: none;
   position: absolute;
-  left: calc(25vw - 5rem);
+  left: calc(5vw - 5rem);
   top: calc(15vh - 5rem);
   margin-bottom: 0;
 }
