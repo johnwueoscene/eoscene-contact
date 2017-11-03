@@ -106,8 +106,8 @@ footer .footer-contents {
 .graphics {
   display: none;
   position: absolute;
-  bottom: 50rem;
-  left: 5rem;
+  top: 5;
+  left: 5;
   margin-bottom: 0;
 }
 
