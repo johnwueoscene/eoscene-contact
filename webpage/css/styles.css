@@ -144,7 +144,7 @@ footer .footer-contents {
 @media (min-height: 500px) and (min-width: 700px) {
   .message {
     padding: 0;
-    width: 50%;
+    width: 60%;
     left: calc(50vw - 5rem);
     top: calc(15vh - 5rem);
   }
